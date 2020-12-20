@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/static/css/main.cb3b0b4b.chunk.css",
-    "main.js": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/main.901b4aab.chunk.js",
-    "main.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/main.901b4aab.chunk.js.map",
-    "runtime-main.js": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/runtime-main.2ad75846.js",
-    "runtime-main.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/runtime-main.2ad75846.js.map",
-    "static/js/2.a43820e1.chunk.js": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/2.a43820e1.chunk.js",
-    "static/js/2.a43820e1.chunk.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/2.a43820e1.chunk.js.map",
-    "index.html": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/index.html",
-    "static/css/main.cb3b0b4b.chunk.css.map": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/static/css/main.cb3b0b4b.chunk.css.map",
-    "static/js/2.a43820e1.chunk.js.LICENSE.txt": "/homepage%E2%80%9D:%20%E2%80%9Chttp://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/2.a43820e1.chunk.js.LICENSE.txt"
+    "main.css": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/static/css/main.cb3b0b4b.chunk.css",
+    "main.js": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/main.901b4aab.chunk.js",
+    "main.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/main.901b4aab.chunk.js.map",
+    "runtime-main.js": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/runtime-main.ce35307a.js",
+    "runtime-main.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/runtime-main.ce35307a.js.map",
+    "static/js/2.a43820e1.chunk.js": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/2.a43820e1.chunk.js",
+    "static/js/2.a43820e1.chunk.js.map": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/2.a43820e1.chunk.js.map",
+    "index.html": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/index.html",
+    "static/css/main.cb3b0b4b.chunk.css.map": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/static/css/main.cb3b0b4b.chunk.css.map",
+    "static/js/2.a43820e1.chunk.js.LICENSE.txt": "/homepage%E2%80%9D:%20%E2%80%9Chttps://zwehr.github.io/freeCodeCamp-random-quote-machine/static/js/2.a43820e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ad75846.js",
+    "static/js/runtime-main.ce35307a.js",
     "static/js/2.a43820e1.chunk.js",
     "static/css/main.cb3b0b4b.chunk.css",
     "static/js/main.901b4aab.chunk.js"
