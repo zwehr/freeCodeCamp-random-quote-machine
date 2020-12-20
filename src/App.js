@@ -33,7 +33,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <QuoteBox quote={this.state.quote} author={this.state.author} click={this.handleClick}/>
+        <QuoteBox id="quote-box" quote={this.state.quote} author={this.state.author} click={this.handleClick}/>
       </div>
     );
   };
