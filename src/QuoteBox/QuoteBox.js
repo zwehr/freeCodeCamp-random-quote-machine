@@ -9,7 +9,7 @@ const quoteBox = (props) => {
       <p id="text">{props.quote}</p>
       <p id="author">{props.author}</p>
       <button id="new-quote" onClick={props.click}>New Quote</button>
-      <a href={twitterHref} id="tweet-quote"><i class="fab fa-twitter-square"></i></a>
+      <a href={twitterHref} target="_blank" id="tweet-quote"><i class="fab fa-twitter-square"></i></a>
     </div>
   )
 }

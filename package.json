@@ -1,8 +1,8 @@
 {
-  "name": "random-quote-machine",
+  "name": "freeCodeCamp-random-quote-machine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "homepage”: “https://zwehr.github.io/freeCodeCamp-random-quote-machine/",
+  "homepage": "https://zwehr.github.io/freeCodeCamp-random-quote-machine/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.6",
